@@ -1,0 +1,16 @@
+.display{
+    background-color : #808080;
+}
+
+.btn{
+    font-size : 20px;
+    margin-left : 50px;
+    margin-top : 40px;
+    cursor : pointer;
+    background-color : #FFF0F5;
+    border-radius : 5px;
+}
+
+.btn:hover{
+    background-color : yellow;
+}

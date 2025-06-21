@@ -1,0 +1,58 @@
+.cart-container{
+    margin-left : 430px;
+    width : 40%;
+    height : 370px;
+    background-color : #E0FFFF;
+    border-radius : 7px;
+}
+
+.inputs{
+    margin-left : 80px;
+}
+.input1{
+    margin-top : 27px;
+    font-size : 20px;
+    border-radius : 5px;
+}
+.input2{
+    margin-top : 27px;
+    font-size : 20px;
+    border-radius : 5px;
+}
+.label{
+    margin-left : 8px;
+    color : black;
+    font-size : 25px;
+}
+.btn1{
+    margin-left : 27px;
+    background-color :  #87CEFA;
+    cursor :pointer;
+    border-radius : 6px;
+    font-size : 24px;
+}
+.btn1:hover{
+    background-color :  #ffffb3;
+}
+
+.btn2{
+    margin-left : 300px;
+    background-color :  #87CEFA;
+    cursor :pointer;
+    border-radius : 6px;
+    font-size : 24px;
+    margin-top : 10px;
+}
+.btn2:hover{
+    background-color :  #ffffb3;
+}
+
+.item-container{
+    background-color : #ffffe6;
+    margin-left : 55px;
+    font-size : 22px;
+    border-radius : 14px;
+}
+h3{
+    margin-left : 20px;
+}
